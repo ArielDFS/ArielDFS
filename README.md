@@ -7,7 +7,7 @@
 *Building data pipelines, vertical SaaS, and AI agents for SMEs — from Volta Redonda, RJ 🇧🇷*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arieldfs-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arieldfs)
-[![Gmail](https://img.shields.io/badge/Email-afs.intelligence@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:afs.intelligence@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-afs.intelligence@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arielfreitasbm@gmail.com)
 
 </div>
 
