@@ -6,7 +6,7 @@
 
 *Building data pipelines, vertical SaaS, and AI agents for SMEs — from Volta Redonda, RJ 🇧🇷*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arieldefreitassilva-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ariel-de-freitas-silva-13b6601ba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arieldefreitassilva-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-de-freitas-silva-13b6601ba/)
 [![Gmail](https://img.shields.io/badge/Email-arielfreitasbm@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arielfreitasbm@gmail.com)
 
 </div>
